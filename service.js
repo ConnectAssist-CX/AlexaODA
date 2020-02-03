@@ -23,8 +23,7 @@ module.exports = new function() {
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
     amzn_appId: "amzn1.ask.skill.016f2147-5c64-47b5-8f82-c8acc94e72a1",
     channelSecretKey: 'N04pk5lTxjMG1rniwt9XSNQtoSlIdqgu',
-    channelUrl: 'https://oda-e495c79b86cc4e94a35f009a48cffd4f-da2.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/dbda19bc-6a1f-439e-b310-f134c1159eb8
-'
+    channelUrl: 'https://oda-e495c79b86cc4e94a35f009a48cffd4f-da2.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/dbda19bc-6a1f-439e-b310-f134c1159eb8'
   };
 
   this.randomIntInc = function (low, high) {
